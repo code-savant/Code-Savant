@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Christopher Wise🌚. <br>I am a frontend developer and aspiring full stack developer 💻 creating responsive and professional web applications🌐, APIs, and mobile apps. <br>My projects range from scientific calculators and interactive tools to ExpressJS-based backends with authentication and OTP verification. <br>I also explore Flutter for mobile app development and implement modern design principles and secure coding practices in my work.<br>I am also open to collaborate 🤝 with individuals to bring solution to tech problems🌟.<br>
+My name is Christopher Wise🌚. <br>I am a full stack developer 💻 creating responsive and professional web applications🌐, APIs, and mobile apps. <br>My projects range from scientific calculators and interactive tools to ExpressJS-based backends with authentication and OTP verification. <br>I also explore Flutter for mobile app development and implement modern design principles and secure coding practices in my work.<br>I am also open to collaborate 🤝 with individuals to bring solution to tech problems🌟.<br>
 
 
 ## 🌐 Socials:
